@@ -1,0 +1,44 @@
+Tue Jun 25 19:28:42 BRT 2019 Servidor aberto na porta: 5217
+Tue Jun 25 19:29:07 BRT 2019 Servidor aberto na porta: 5217
+Tue Jun 25 19:29:14 BRT 2019 Cliente conectado
+Tue Jun 25 19:29:52 BRT 2019 Arquivo teste.txt ja existe no servidor.
+Tue Jun 25 19:29:54 BRT 2019 Arquivo teste.txt enviado com sucesso.
+Tue Jun 25 19:29:54 BRT 2019 Esperando por comando.
+Tue Jun 25 19:30:06 BRT 2019 Comando de fechar o servidor recebido.
+Tue Jun 25 19:31:31 BRT 2019 Servidor aberto na porta: 5217
+Tue Jun 25 19:31:34 BRT 2019 Cliente conectado
+Tue Jun 25 19:31:39 BRT 2019 Esperando por comando.
+Tue Jun 25 19:31:41 BRT 2019 Comando de fechar o servidor recebido.
+Tue Jun 25 19:35:47 BRT 2019 Servidor aberto na porta: 5217
+Tue Jun 25 19:35:49 BRT 2019 Cliente conectado
+Tue Jun 25 19:35:54 BRT 2019 Esperando por comando.
+Tue Jun 25 19:35:56 BRT 2019 Comando de fechar o servidor recebido.
+Tue Jun 25 19:55:19 BRT 2019 Servidor aberto na porta: 5217
+Tue Jun 25 19:55:21 BRT 2019 Cliente conectado
+Tue Jun 25 19:55:37 BRT 2019 Arquivo teste.txt ja existe no servidor.
+Tue Jun 25 19:55:39 BRT 2019 Arquivo teste.txt enviado com sucesso.
+Tue Jun 25 19:55:48 BRT 2019 Pronto para receber o arquivo.
+Tue Jun 25 19:55:48 BRT 2019 Arquivo teste.txt recebido.
+Tue Jun 25 19:55:55 BRT 2019 Esperando por comando.
+Tue Jun 25 19:56:01 BRT 2019 Comando de fechar o servidor recebido.
+Tue Jun 25 19:56:56 BRT 2019 Servidor aberto na porta: 5217
+Tue Jun 25 19:56:59 BRT 2019 Cliente conectado
+Tue Jun 25 19:57:12 BRT 2019 Esperando por comando.
+Tue Jun 25 19:57:15 BRT 2019 Cliente desconectou do Servidor.
+Tue Jun 25 19:57:20 BRT 2019 Cliente conectado
+Tue Jun 25 19:57:39 BRT 2019 Esperando por comando.
+Tue Jun 25 19:57:54 BRT 2019 Cliente desconectou do Servidor.
+Tue Jun 25 20:01:09 BRT 2019 Servidor aberto na porta: 5217
+Tue Jun 25 20:01:14 BRT 2019 Cliente conectado
+Tue Jun 25 20:01:19 BRT 2019 Esperando por comando.
+Tue Jun 25 20:01:21 BRT 2019 Cliente desconectou do Servidor.
+Tue Jun 25 20:02:44 BRT 2019 Servidor aberto na porta: 5217
+Tue Jun 25 20:02:50 BRT 2019 Cliente conectado
+Tue Jun 25 20:09:02 BRT 2019 Servidor aberto na porta: 5217
+Tue Jun 25 20:09:04 BRT 2019 Cliente conectado
+Tue Jun 25 20:09:30 BRT 2019 Pronto para receber o arquivo.
+Tue Jun 25 20:09:30 BRT 2019 Arquivo teste.txt recebido.
+Tue Jun 25 20:09:30 BRT 2019 Esperando por comando.
+Tue Jun 25 20:09:46 BRT 2019 Cliente desconectou do Servidor.
+Tue Jun 25 20:10:18 BRT 2019 Servidor aberto na porta: 5217
+Tue Jun 25 20:10:22 BRT 2019 Cliente conectado
